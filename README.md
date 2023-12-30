@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=header"/>
 ### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperVingo)](https://github.com/anuraghazra/github-readme-stats)
+[![SuperVingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperVingo)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuperVingo&theme=transparent&border_radius=5)](https://git.io/streak-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=footer"/>
 <!--
 **SuperVingo/supervingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
