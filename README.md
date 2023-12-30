@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=header"/>
 ### Hi there 👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigtree1214)](https://solved.ac/bigtree1214)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bigtree1214)](https://solved.ac/bigtree1214)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperVingo)](https://github.com/anuraghazra/github-readme-stats)
 
