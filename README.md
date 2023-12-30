@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=header/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=header"/>
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=footer/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7883bf&height=150&section=footer"/>
 <!--
 **SuperVingo/supervingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
